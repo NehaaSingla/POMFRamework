@@ -103,7 +103,7 @@ public class login {
 	}
 	
 	
-	@FindBy(xpath = "//div[@id='toast-close-button']")
+	@FindBy(xpath = "//a[contains(text(),'×')]")
 	private WebElement toastCloseButton;
 	
 	public void gettoastCloseButton() {

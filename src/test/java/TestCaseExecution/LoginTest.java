@@ -66,6 +66,8 @@ public class LoginTest extends BrowserSetup {
 		
 		lg =  new login(driver);
 		Thread.sleep(2000);
+		lg.gettoastCloseButton();
+		Thread.sleep(2000);
 		lg.getSignInButton();
 		log.info("User clicked on Sign Button");
 		lg.setUserName("chatterjeeamit42@gmail.com");

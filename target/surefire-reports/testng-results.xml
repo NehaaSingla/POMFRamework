@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="33292" started-at="2021-01-08T12:06:16Z" finished-at="2021-01-08T12:06:50Z">
+  <suite name="Suite" duration-ms="53216" started-at="2021-01-12T12:39:03Z" finished-at="2021-01-12T12:39:56Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="33292" started-at="2021-01-08T12:06:16Z" finished-at="2021-01-08T12:06:50Z">
+    <test name="Test" duration-ms="53216" started-at="2021-01-12T12:39:03Z" finished-at="2021-01-12T12:39:56Z">
       <class name="TestCaseExecution.LoginTest">
-        <test-method status="PASS" signature="startreport()[pri:0, instance:TestCaseExecution.LoginTest@12843fce]" name="startreport" is-config="true" duration-ms="296" started-at="2021-01-08T07:06:16Z" finished-at="2021-01-08T07:06:17Z">
+        <test-method status="PASS" signature="startreport()[pri:0, instance:TestCaseExecution.LoginTest@12843fce]" name="startreport" is-config="true" duration-ms="722" started-at="2021-01-12T07:39:03Z" finished-at="2021-01-12T07:39:04Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startreport -->
-        <test-method status="PASS" signature="openbrowser()[pri:0, instance:TestCaseExecution.LoginTest@12843fce]" name="openbrowser" is-config="true" duration-ms="21861" started-at="2021-01-08T07:06:17Z" finished-at="2021-01-08T07:06:38Z">
+        <test-method status="PASS" signature="openbrowser()[pri:0, instance:TestCaseExecution.LoginTest@12843fce]" name="openbrowser" is-config="true" duration-ms="38211" started-at="2021-01-12T07:39:04Z" finished-at="2021-01-12T07:39:42Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openbrowser -->
-        <test-method status="PASS" signature="logintest()[pri:0, instance:TestCaseExecution.LoginTest@12843fce]" name="logintest" duration-ms="8543" started-at="2021-01-08T07:06:38Z" finished-at="2021-01-08T07:06:47Z">
+        <test-method status="PASS" signature="logintest()[pri:0, instance:TestCaseExecution.LoginTest@12843fce]" name="logintest" duration-ms="8529" started-at="2021-01-12T07:39:42Z" finished-at="2021-01-12T07:39:51Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logintest -->
-        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:TestCaseExecution.LoginTest@12843fce]" name="getResult" is-config="true" duration-ms="57" started-at="2021-01-08T07:06:47Z" finished-at="2021-01-08T07:06:47Z">
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:TestCaseExecution.LoginTest@12843fce]" name="getResult" is-config="true" duration-ms="35" started-at="2021-01-12T07:39:51Z" finished-at="2021-01-12T07:39:51Z">
           <params>
             <param index="0">
               <value>
@@ -30,7 +30,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getResult -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestCaseExecution.LoginTest@12843fce]" name="tearDown" is-config="true" duration-ms="2456" started-at="2021-01-08T07:06:47Z" finished-at="2021-01-08T07:06:50Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestCaseExecution.LoginTest@12843fce]" name="tearDown" is-config="true" duration-ms="5695" started-at="2021-01-12T07:39:51Z" finished-at="2021-01-12T07:39:56Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
